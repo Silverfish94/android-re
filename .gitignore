@@ -1,0 +1,10 @@
+captures/
+swagger/
+*.flows
+*.pem
+*.p12
+*.0
+/tmp/
+*.log
+frida-server
+*.apk
